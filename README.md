@@ -1,5 +1,8 @@
 # React + Vite
 
+Netlify Link -> https://lucent-madeleine-90becb.netlify.app/
+Vercel Link ->  https://megareactproj.vercel.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
